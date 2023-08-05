@@ -1,4 +1,4 @@
-// DFS algorithm in C
+// DFS algorithm in C programming 
 
 #include <stdio.h>
 #include <stdlib.h>
